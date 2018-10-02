@@ -4,6 +4,8 @@
 
 As I'm writing this, Christian is about 4 and a half months old. That's about as much as this will cover. One thing that's super important to consider is that there's a good chance that literally none of this will apply to you. This thing you are bringing into the world is designed by billions of years of evolution to manipulate your emotions and your attention. Keep this in mind, because you can't take anything personally.
 
+If anyone reading this has anything they'de like to add, seriously let me know. If you know how github works, make a pull request you nerd loser. But if it's an issue, just raise it in the issue tracker. I believe raising a child is a community effort. If anything I want people to be able to plan ahead and to know that the process is tricky.
+
 *"Everyone has a plan until they get punched in the face."* - Mike Tyson
 
 ## Pre-birth
@@ -81,9 +83,11 @@ Note that just about every new parent wakes up during the night and is like 'oh 
 
 You've probably heard it a billion times, but treating this period in time as the 'fourth trimester' was a pretty good mental shift for me. "You can't spoil him enough" is what every book says, and I agree. But I should warn you, this time can be relentlessly awful.
 
-![](/mnt/949EF0089EEFE0AA/Users/angry/Dropbox/Photos/newborn_sleep.jpg)
+![](newborn_sleep.jpg)
 
-The picture above as one man's plot of his newborn's awakedness. Y axis is hours of the day; X axis is days from birth. Black things are times that the baby was awake. Pretty cool. See how the first part is absolute noise and then it kind of turns into something normal? That is the 6 weeks after birth. There's really no good way to deal with it. You know how the baby is just kicking around inside of you all the time? Well that doesn't change after he comes out for a while.
+The picture above as [one man's plot of his newborn's awakedness](https://twitter.com/rndmcnlly/status/1033500736569499648). Y axis is hours of the day; X axis is days from birth. Black is time that the baby was awake. Pretty cool. See how the first part is absolute noise and then it kind of turns into something normal? The noise is basically the 6 weeks after birth (the due date, really). Meaning your baby is not going to have a night-day schedule. The way he sleeps during the day is the way he will sleep at night. There's really no good way to deal with it. 
+
+You know how the baby was just kicking around inside of you all the time, like he would wake you up from kicking? Well that doesn't change after he comes out for a while.
 
 ### Sleep (for you)
 
@@ -99,11 +103,11 @@ I don't know how good of nappers you guys are, I was never very good at it, and 
 
 ### Food
 
-Try to keep a schedule. It will be impossible, but still, [food is one of the things you use to set your circadian rhythm](https://foodandnutrition.org/blogs/stone-soup/right-foods-right-time-circadian-rhythms-nutrition/). Veronica cooked a bunch of shit up earlier, and we're still using it. But this is definitely where you should call in favors. One of our friends brought us enchiladas and I wanted to die I was so happy. Were I in the US I would have cooked up a giant Stauffers Lasagna. 
+Try to keep a schedule. It will be impossible, but still, [food is one of the things you use to set your circadian rhythm](https://foodandnutrition.org/blogs/stone-soup/right-foods-right-time-circadian-rhythms-nutrition/). Veronica cooked a bunch of shit up pre-birth, and we're still using it. But this is definitely where you should call in favors. One of our friends brought us enchiladas and I wanted to die I was so happy. Were I in the US I would have cooked up a giant Stauffers Lasagna. 
 
 Again, this is something a grandparent or helper should be doing.
 
-You are going to be tempted to just eat garbage, and I feel you. But if someone is cooking for you, try to get them to make you a salad or something like that. You guys are healthy, you're fine. 
+You are going to be tempted to just eat garbage, and I feel you. But if someone is cooking for you, try to get them to make you a salad or something like that.  
 
 ### Food for him or her
 
@@ -125,11 +129,11 @@ https://www.bfar.org/bottlefeeding.pdf
 
 https://kellymom.com/bf/pumpingmoms/feeding-tools/bottle-feeding/
 
-There was a ~3 week period where basically all that Veronica did was sit there and feed Christian and also watch TV. She was about to lose her damn mind.
+There was a ~3 week period where basically all that Veronica did was sit there and feed Christian and also watch TV. She was about to lose her damn mind. We tried to find a rhythm to his eating, but we found absolutely nothing. 
 
 Oh on that note, Veronica had a hand pump thing that she would strap to her other boob while Christian was latched to the other one. She would gather an extraordinary amount of milk in that thing, that would have otherwise sprayed all over our mattress or couch. 
 
-As Veronica mentioned, Dr. Brown's bottles with **slow flow** nipples is what we use. No matter what brand, you want the slow flow nipples.
+Dr. Brown's bottles with **slow flow** nipples is what we use. No matter what brand, you want the slow flow nipples.
 
 #### Dad work
 
@@ -141,13 +145,9 @@ So we learned this awesome method of burping in the hospital:
 
 https://www.youtube.com/watch?v=6boVy5aF4kg
 
-Note, that we didn't cradle his head like that, I put my hands under his armpits and used my massive hands to support his feeble neck, like so:
+Note, that we didn't cradle his head like that, I put my hands under his armpits and used my massive hands to support his feeble neck. Your call, but it is astounding how well this works. It doesn't work forever, around 5-6 weeks we had to do the normal, throw him over the shoulder and pat his back until he barfs everywhere method. 
 
-https://photos.google.com/share/AF1QipPDUuHE55wK4rkNFbIX7uQ5plMUihKzyA7ZYflSP4O6cP7bw8IBKF02UMYBBlIVSA/photo/AF1QipNn6zPI6-DlDe-pdz87qeMDuYgw2ueq5DB7qT-h?key=dWdUNHFtRWtjbmtmMDRQeTNDdEs4eDQ4R0dwaTFR
-
-^ it is astounding how well this works by the way. It doesn't work forever, around 5-6 weeks we had to do the normal, throw him over the shoulder and pat his back until he barfs everywhere method. 
-
-This was my absolute favorite time to spend with Christian for the first couple of weeks, for what it's worth.
+This was my absolute favorite time to spend with Christian for the first couple of weeks, for what it's worth. He would be barely able to stay awake, eyes rolling back into his head, milk running down his chin, goblin-hands spasmsing everywhere, moaning from hunger. Humanity at its finest.
 
 #### Jesus god my baby is barfing everywhere
 
@@ -155,21 +155,23 @@ Talk to your doctor about Mycolin. That shit is awesome.
 
 Also make sure that you're feeding him upright.
 
-Your baby could also just have a derpy esophogus, so it just kind of can't hold shit down. It will grow out of this. But he or she may have some sort of like acid reflux. Sorry.
+Your baby could also just have a derpy esophogus, so it just kind of can't hold shit down. It will grow out of this. But he or she may have some sort of like acid reflux. Sorry. It also comes in phases, but if you are concerned, ask the midwife.
 
 Don't hold your baby over your computer or really any electronics, btw.
 
 #### Nipples, yours
 
-If you are going to breastfeed, you should really have everything set to care for them. I won't go into details, but it involves lanolin creams, cold packs and warm packs.
+If you are going to breastfeed, you should really have everything set to care for your nipples. I won't go into details, but it involves lanolin creams, cold packs and warm packs. But any good parenting book or breastfeeding resource should have a good lineup. Mastitises are very real and you need to take precautions against them. 
 
 There's a very good chance your nipples will bleed. There's a good chance it will happen while you are feeding. This means your baby will drink your blood and then will barf it up. So don't be scared if your baby vomits blood.
 
-### Sleep
+### Sleep, his
 
-During this stage your baby should be sleeping a lot. Like, if they're awake for more than an hour, they need to sleep asap. Let the baby fall asleep in your arms or wherever. Let them sleep as much as they want. Our midwife suggested to make sure it sleeps in a diversity of places so it gets away-game practice. 
+Here are the [American Academy for Pediatrics Guidelines for SIDS prevention](https://www.aap.org/en-us/about-the-aap/aap-press-room/pages/AAP-Expands-Guidelines-for-Infant-Sleep-Safety-and-SIDS-Risk-Reduction.aspx). Follow them.
 
-There's not much you can do here to 'sleep train', except that I would really avoid letting him or her fall asleep while feeding. These should be two separate processes. Are you ready? Babies do not know how to fall asleep! So fucked up. So you have to help them learn how to do it. Really at this stage they are just a bunch of stimulus-responses and the food-sleep one, I have heard, is insanely difficult to break.
+During this stage your baby should be sleeping a lot. Like, if they're awake for more than an hour, they need to sleep asap. Let the baby fall asleep in your arms or wherever. Let them sleep as much as they want. Our midwife suggested to make sure it sleeps in a diversity of places so it gets away-game practice. But if you are ever feeling like 'my baby really doesn't need all that much sleep' you are wrong and your baby should be sleeping more.
+
+There's not much you can do here to 'sleep train', except that I would really avoid letting him or her fall asleep while feeding. These should be two separate processes. Are you ready? Babies do not know how to fall asleep! So fucked up. So you have to help them learn how to do it. Really at this stage they are just a bunch of stimulus-responses and the food-sleep one, I have heard, is insanely difficult to break. So if they get used to falling asleep at the breast, that's kind of the habit that they'll have.
 
 So. Feed. Burp. Sleep. That is one thing I like about the hula-methed for burping, it's hard for them to sleep through it. Sometimes they do and its hilarious.
 
@@ -189,11 +191,11 @@ I used to hate it when people shushed babies. "They don't understand it what it 
 
 #### Okay but little Ainsley is still crying
 
-Well it could be a wonderweek, check that. 
+I'll take this time to mention a really great app called [The Wonder Weeks](https://www.thewonderweeks.com/). My personal conception of child-growth was that it was just kind of in a straight line. This isn't really the case, it's kind of in bursts. And it turns out these bursts are pretty regular. And some Dutch researchers figured out the universal rhythms of babies. We (and others) found them to be right on, especially earlier on. You know how some parents are like "ugh just when you have them figured out, they change!!!!" Well this really helps you prepare for that. An example: From weeks 3-5, Christian would really only cry when he was hungry or tired. But that all changed during a wonder week. So, it could be a wonder week.
 
-Second, it could easily be gas. For the first couple months Christian was super sensitive to beans and eggplant and maybe caffeine. So one thing we did is make some fennel infusion and gave it to him after feedings, and then made some formula with it.
+Second, it could easily be gas. For the first couple months Christian was super sensitive to beans and eggplant and maybe caffeine. So one thing we did is make some fennel infusion and gave it to him after feedings, and then made some formula with it. If there's anything that makes you gassy, it almost certainly makes him gassy.
 
-Third, try gripe water. This is kind of only for emergencies when he/she just won't stop crying. It is bananas how well it works when needed. Gripe water used to be grain alcohol, lmao. But now it's just a bunch of herbs and baking soda.
+Third, try gripe water. This is kind of only for emergencies when he/she just won't stop crying. It is bananas how well it works when needed. Gripe water used to be grain alcohol, lmao. But now it's just a bunch of herbs and baking soda. This is kind of our last ditch effort, and we really only use it if he needs to go to sleep.
 
 Fourth, it could be colic. Very sorry if this is the case.
 
@@ -215,7 +217,7 @@ Thirdly, I guess this is firstly, but when you put the baby down, you should let
 
 ### Final thoughts on this period in time
 
-#### Learn the hip hinge
+#### Learn the hip hinge!!!!!
 
 This is something everyone should do, but you need to start keeping your back straight when you bend over. The way this is done by instead of bending at the knees, you stick your butt back. Seriously, this is a life skill that every person on this stupid planet should have. Here are two tutorials: one is npr being smug and multicultural the other is some weirdo:
 
@@ -225,15 +227,13 @@ http://www.nick-e.com/hinge/
 
 ^ no joke if you take one damn thing from this treatise, then this is it
 
-
-
 ## 6 weeks -> 6 months
 
 Okay things are smoothing out now. Your baby is making eye contact with you and smiling. His or her facial features are slightly more developed and there seems to be some rhythm to the day. 
 
 ### Sleep
 
-The good news is that your baby understands that there's a day and night. The bad news is that he just doesn't fall asleep on his own anymore. The issue of sleep training is a super contentious one, there are a bunch of methods. I happened to run across [The Happy Sleeper](https://www.amazon.com/Happy-Sleeper-Science-Backed-Helping-Sleep-Newborn/dp/0399166025) on the street and it has been VERY helpful. I read it in an afternoon. But the long and short of it is that you incrementally help the baby get to sleep on their own by doing less and less for them. You may disagree with the methods, but I think the fundamentals and the reasoning are very correct.
+The good news is that your baby understands that there's a day and night. The bad news is that he just doesn't fall asleep on his own anymore. The issue of sleep training is a super contentious one, there are a bunch of methods. I happened to run across [The Happy Sleeper](https://www.amazon.com/Happy-Sleeper-Science-Backed-Helping-Sleep-Newborn/dp/0399166025) on the street and it has been VERY helpful. I read it in an afternoon. But the long and short of it is that you incrementally help the baby get to sleep on their own by doing less and less for them. You may disagree with the methods, but I think the fundamentals and the reasoning are very correct. The website [Precious Little Sleep](https://www.preciouslittlesleep.com/) is also quite good, but she is very adamant that your baby have a sleep swing.
 
 At the very least, this is something to discuss and research, your plan for getting your baby to sleep. I would really have a plan in place. You must be consistent. My personal rule, in easing him to falling asleep on his own, was change one thing at a time. So we were at this cabin and Christian HATED the room he was sleeping in because it was stuffy. Which sucked. But he loved being outside, that would calm him down. But to put him to sleep we had to change two things: being outside and being in arms. And it kind of sucked. BUT it got better.
 
@@ -241,7 +241,7 @@ Note that the happy sleeper method is really only going to work if your guy or g
 
 For me personally, at this stage in the game, this is the single most frustrating part of parenting, and I feel like a lot of parents would agree with me. 
 
-Another thought is that it should really be a combination of people who put him to sleep. This is not always possible, but as often as possible, alternate putter-to-sleepers. And make sure you stay on the same page about techniques. If you're frustrated, I would recommend rather than handing the baby off, putting it down, getting a drink of water, splashing your face, then going back into the fray.
+Another thought is that it should really be a combination of people who put him to sleep. This is not always possible, but as often as possible, alternate putter-to-sleepers. And make sure you stay on the same page about techniques. If you're frustrated, I would recommend rather than handing the baby off: put it down, get a drink of water, splashing your face, then go back into the fray. Everything is relative, so sometimes comforting methods aren't working because the comforting has become the new normal. So when you put them down, they realize that worse level of grumpiness and then they can be comforted. I've put Christian down, gotten a cup of water, and then it took 30 seconds of shushing before he was out.
 
 #### Naps
 
@@ -249,9 +249,11 @@ The baby will basically be sleeping every hour and a half or so. One thing I rea
 
 The first was that we moved his bedtime earlier in the night (7:30 is kind of a soft ceiling). At the time we just said no later than two hours after his last nap.
 
-The second was to just put him down about an hour and a half after his last nap (this goes for bedtime as well). So when he gets up, we look at the clock. An hour and a half later is when we shoot to be putting him down. Note that this means kind of starting the pre-nap procedure like 10 minutes before.
+The second was to just put him down about an hour and a half after his last nap (this goes for bedtime as well). So when he gets up, we look at the clock. An hour and a half later is when we shoot to be putting him down. Note that this means kind of starting the pre-nap procedure like 10 minutes before. Note, this changes at around 4 months, when he goes from 4->3 naps a day.
 
 Things REALLY smoothed out after this. And it's getting better.
+
+I mention why below, but we have had some real success with just letting him play by himself for ~15 minutes before going to sleep. In fact, there's an entire strategy called Eat -> Play -> Sleep. 
 
 #### A quick treatise on overtiredness
 
@@ -263,9 +265,15 @@ Melatonin is very fickle, but it also builds gradually, and makes you feel sleep
 
 So you can kind of see the intuition behind 'sleep begets sleep'. On one hand it allows you to balance the cortisol and melatonin levels. On the other, it allows the baby to practice falling asleep, to ride the wave of melatonin. 
 
+#### Weaning from the swaddle
+
+You can't swaddle your baby forever. Once he can roll over, then the swaddle is gone. Often you can see the writing on the walls and you can plan for it. So our night routine is to swaddle him and then put him in some sort of sleep sack. The first step is to just leave one arm unswaddled, but free inside the sack. Then we would switch arms and then have both out of the swaddle (we swaddled his midsection/legs for warmth) but still free inside the sack. Then one arm completely out. What REALLY helped was using what mombloggers call a lovey. But basically a cloth with an animal on it or something. Here's an example: [Snuggin](http://www.snuggin.com/). This REALLY helps a lot. It is not only a source of comfort, it's a barrier between their goblin-hands and their face and it is something for their hands to do.
+
+So I would introduce a change during the first nap of the day, give it a day or two to take effect, and then introduce it to the nighttime sleep.
+
 #### Travel
 
-It's kind of counterintuitive, but you can definitely travel now. In fact, this is probably going to be the best time to do that for 5 years or so
+It's kind of counterintuitive, but you can definitely travel now. In fact, this is probably going to be the best time to do that for 5 years or so.
 
 ## Other shit that was helpful
 
@@ -279,7 +287,7 @@ It's kind of counterintuitive, but you can definitely travel now. In fact, this 
 
 If you are doing bottles of any kind, we got a bottle warmer.
 
-As Veronica mentioned, you can't have too many burp cloths.
+You can't have too many burp cloths.
 
 If you find a sleep-sack thing that works with you and your baby, get another one because it will get barfed on and you will need to wash it. 
 
