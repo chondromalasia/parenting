@@ -18,7 +18,7 @@ But don't stress about being stressed either. My larger point is that you probab
 
 ### Useful stuff
 
-I personally didn't do too much reading about the process of giving birth. I relied on the team of midwives and doctors. That having been said here are some useful resources:
+I personally didn't do too much reading about the process of giving birth/being pregnant. I relied on the team of midwives and doctors. That having been said here are some useful resources:
 
   * "How much coffee is okay?" "UUUUUUGH I had a glass of wine, how guilty should I feel?" "So, like, can I eat deli meat?" All fair questions and it is extremely hard to know what to believe. Veronica got a lot of comfort out of [Expecting Better](https://www.goodreads.com/book/show/16158576-expecting-better). The long and short of it is that an economist wanted the answers to these questions, so she went through the literature and summarized it.
   * Hypnobirthing. Sounds like mumbo jumbo, but giving birth is an exercise in the mind-body connection. Veronica swears by this and, having listened to it, I do to. [The Calm Birth School](https://www.thecalmbirthschool.com/) and its associated materials are fantastic.
@@ -40,6 +40,8 @@ Really my job was to make sure Veronica had what she needed. In her case this wa
 I don't know how strong your stomach is. I watched Christian come out of Veronica and I will never forget it until the day I die (in a good way). On the other hand, my Mom's cousin passed out and split his head open. He had to be rushed TO ANOTHER HOSPITAL as his son lay screaming in his mother's arms. Have a good honest look at where you stand on that spectrum and plan accordingly. 
 
 Also your job is to flag nurses down if the mom-to-be needs anything.
+
+I was a crew coach in college, and honestly I drew very heavily on that for the birthing process. Make sure they're breathing out through pursed lips (it's easy to moan, but it's mutch better for pain tolerance and your throat). Draw attention to these sorts of physical cues. And always tell people what to do, rather than what they should not do. If we use the above example, rather than "Don't moan" you should say "Breath out through your lips". 
 
 ### Boredom
 
@@ -310,6 +312,8 @@ If you're going to do birth announcements, in any form, you might want to get as
 We manage baby pictures by keeping a central Google pictures repository, the link to which we hand out to people who might be interested. On this note, I read a lifehacker article that was like 'look your kid is going to make a bunch of art, keep 10% of it and make an instagram feed of the rest of it'.
 
 Brush your kid's hair. Christian got cradle cap which was, at worst, just slightly gross. But still, it look like somebody had mashed corn chips into his head. And then when you brush them off it's like the most insane dandruff ever. But it is preventable.
+
+Get some slip on shoes that you can wear for 3-4 hours. It's just one less thing you have to worry about, but also sometimes you put on the ergo baby and you haven't put your shoes on yet.
 
 ### Mental Tricks
 
