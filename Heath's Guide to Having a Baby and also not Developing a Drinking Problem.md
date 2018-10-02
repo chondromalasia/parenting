@@ -133,7 +133,7 @@ There was a ~3 week period where basically all that Veronica did was sit there a
 
 Oh on that note, Veronica had a hand pump thing that she would strap to her other boob while Christian was latched to the other one. She would gather an extraordinary amount of milk in that thing, that would have otherwise sprayed all over our mattress or couch. 
 
-Dr. Brown's bottles with **slow flow** nipples is what we use. No matter what brand, you want the slow flow nipples.
+Dr. Brown's bottles with **slow flow** nipples are what we use. No matter what brand, you want the slow flow nipples.
 
 #### Dad work
 
@@ -175,6 +175,8 @@ There's not much you can do here to 'sleep train', except that I would really av
 
 So. Feed. Burp. Sleep. That is one thing I like about the hula-methed for burping, it's hard for them to sleep through it. Sometimes they do and its hilarious.
 
+Note that if he's having trouble sleeping at this point, we found the ergo-baby to basically be cheat-mode. 
+
 #### Swaddling
 
 Not all babies take to swaddling. And we thought Christian was this way. He would scream if you tried to move his arms. But then the midwife came and swaddled him and stuffed a pacifier in his mouth and put him on his side and he shut the fuck up. It was amazing.
@@ -183,7 +185,7 @@ Now it is part of our sleep (nap and bed) routine.
 
 It also takes some practice. Babies have hellspawn goblin strength and will bust through any weakness in the swaddle. I would recommend the [dudu method](https://wicworks.fns.usda.gov/wicworks/Sharing_Center/Chickasaw/dudu.pdf) for younger babies and then just a regular swaddle as they grow up.
 
-After a swaddle, we put him in a woombie or a woombie-like device and this does the trick.
+After a swaddle, we put him in a [woombie](http://www.woombie.com/) or a woombie-like device and this does the trick.
 
 #### Shushing
 
@@ -193,7 +195,7 @@ I used to hate it when people shushed babies. "They don't understand it what it 
 
 I'll take this time to mention a really great app called [The Wonder Weeks](https://www.thewonderweeks.com/). My personal conception of child-growth was that it was just kind of in a straight line. This isn't really the case, it's kind of in bursts. And it turns out these bursts are pretty regular. And some Dutch researchers figured out the universal rhythms of babies. We (and others) found them to be right on, especially earlier on. You know how some parents are like "ugh just when you have them figured out, they change!!!!" Well this really helps you prepare for that. An example: From weeks 3-5, Christian would really only cry when he was hungry or tired. But that all changed during a wonder week. So, it could be a wonder week.
 
-Second, it could easily be gas. For the first couple months Christian was super sensitive to beans and eggplant and maybe caffeine. So one thing we did is make some fennel infusion and gave it to him after feedings, and then made some formula with it. If there's anything that makes you gassy, it almost certainly makes him gassy.
+Second, it could easily be gas. For the first couple months Christian was super sensitive to beans and eggplant and maybe caffeine. So one thing we did is make some fennel infusion and gave it to him after feedings, and then made some formula with it. If there's anything that makes you gassy, it almost certainly makes him gassy. You can also do belly massages and stuff like that. There's also a device that is basically a tube that you stuff into your baby's butt to suck the farts out, but who even knows if that works/is sanitary.
 
 Third, try gripe water. This is kind of only for emergencies when he/she just won't stop crying. It is bananas how well it works when needed. Gripe water used to be grain alcohol, lmao. But now it's just a bunch of herbs and baking soda. This is kind of our last ditch effort, and we really only use it if he needs to go to sleep.
 
@@ -202,6 +204,10 @@ Fourth, it could be colic. Very sorry if this is the case.
 ##### Oh he's just exercising his lungs
 
 No. Newborns cry for a reason. Luckily there are a limited set of reasons. Food -> Tired -> Gas -> Uncomfortable. It's one of those. A lot of babies get comfort from going outside.
+
+Note that sometimes he's both hungry and sleepy at the same time. And he's too angry to latch. Do everything you can to calm him down. He may fall asleep (and will wake up ~20 minutes very hungry). He may be able to latch. A pro tip would be to put ~30ml of milk in a bottle and get him started on that.
+
+Perfect storm is gas + sleepy + hungry. 
 
 ### Changing diapers
 
@@ -227,6 +233,10 @@ http://www.nick-e.com/hinge/
 
 ^ no joke if you take one damn thing from this treatise, then this is it
 
+#### DON"T WORRY IT WILL END
+
+This is really a tough time to be a parent. You are absolutely demolished, your child is adorable but doesn't really react to you all that much, you have a pile of thank-yous to write. You'lle probably say to yourself "I can't live like this." The good news is you won't have to. Just don't forget to breath and stay hydrated.
+
 ## 6 weeks -> 6 months
 
 Okay things are smoothing out now. Your baby is making eye contact with you and smiling. His or her facial features are slightly more developed and there seems to be some rhythm to the day. 
@@ -236,6 +246,8 @@ Okay things are smoothing out now. Your baby is making eye contact with you and 
 The good news is that your baby understands that there's a day and night. The bad news is that he just doesn't fall asleep on his own anymore. The issue of sleep training is a super contentious one, there are a bunch of methods. I happened to run across [The Happy Sleeper](https://www.amazon.com/Happy-Sleeper-Science-Backed-Helping-Sleep-Newborn/dp/0399166025) on the street and it has been VERY helpful. I read it in an afternoon. But the long and short of it is that you incrementally help the baby get to sleep on their own by doing less and less for them. You may disagree with the methods, but I think the fundamentals and the reasoning are very correct. The website [Precious Little Sleep](https://www.preciouslittlesleep.com/) is also quite good, but she is very adamant that your baby have a sleep swing.
 
 At the very least, this is something to discuss and research, your plan for getting your baby to sleep. I would really have a plan in place. You must be consistent. My personal rule, in easing him to falling asleep on his own, was change one thing at a time. So we were at this cabin and Christian HATED the room he was sleeping in because it was stuffy. Which sucked. But he loved being outside, that would calm him down. But to put him to sleep we had to change two things: being outside and being in arms. And it kind of sucked. BUT it got better.
+
+In addition, from about 6-weeks on, at the bare minimum you should be, developing a very consistent bedtime routine. Like child directed play -> book -> pajamas -> swaddle -> feed -> bed. And then you should be like singing the same song or saying the same things every time.
 
 Note that the happy sleeper method is really only going to work if your guy or gal is a good go-er to sleeper already. I've read accounts of some people whose kids cry for like 2 hours before bed! In that case they basically had to go with the cry it out solution.
 
@@ -259,7 +271,7 @@ I mention why below, but we have had some real success with just letting him pla
 
 You know how cranky you get when you're tired? Well imagine you don't know how to sleep. And you're just constantly tired. That's the first step, you're just not having as much fun in life. This is stressful.
 
-Falling asleep is a battle between melatonin, the sleep hormone, and cortisol, the stress hormone. Adults mainly get rid of cortisol by engaging in BDSM sexual activities and also shooting guns, activities otherwise inaccessible to babies (thanks Obama). Cortisol levels are brought down by calming activities (child-directed play, just letting them do whatever is a very calming activity) and by sleep itself. So right there, not enough sleep = high cortisol.
+Falling asleep is a battle between melatonin, the sleep hormone, and cortisol, the stress hormone. Adults mainly get rid of cortisol by engaging in BDSM sexual activities and also shooting guns, activities otherwise inaccessible to babies (thanks Obama). Cortisol levels are brought down by calming activities (child-directed play, just letting them do whatever is a very calming activity, reading or really anything soothing) and by sleep itself. So right there, not enough sleep = high cortisol.
 
 Melatonin is very fickle, but it also builds gradually, and makes you feel sleepy. However, if you do not go to sleep at the top of the wave, then your body goes into 'second wind' mode and, you guessed it, produces cortisol. 
 
@@ -281,7 +293,7 @@ It's kind of counterintuitive, but you can definitely travel now. In fact, this 
 
 [Penelope Leach: Your Baby and Child from Birth to Age 5](https://www.amazon.com/Your-Baby-Child-Birth-Five/dp/0375712038) Mom got me this and it's a really lovely introduction to raising and nurturing a baby and child. Good fundamentals.
 
-[Amazing Minds](https://www.amazon.com/Amazing-Minds-Nurturing-Developing-Activities/dp/0425232247) This is an unbelievably good book and really goes through how a baby's brain develops. The author goes through the relevant research and does a very good job making it accessible. I will mail you my copy once I've gone back through it, no joke.
+[Amazing Minds](https://www.amazon.com/Amazing-Minds-Nurturing-Developing-Activities/dp/0425232247) This is an unbelievably good book and really goes through how a baby's brain develops. The author goes through the relevant research and does a very good job making it accessible. 
 
 ### Misc
 
@@ -295,6 +307,18 @@ We got a shitload of like waterproof padding things and basically put them under
 
 If you're going to do birth announcements, in any form, you might want to get as much done ahead of time. We got an announcement from one of Veronica's friends like 3 days after she gave birth, an astounding feat.
 
-We manage baby pictures by keeping a central Google pictures repository, the link to which we hand out to people who might be interested. <- on this note, I read a lifehacker article that was like 'look your kid is going to make a bunch of art, keep 10% of it and make an instagram feed of the rest of it'.
+We manage baby pictures by keeping a central Google pictures repository, the link to which we hand out to people who might be interested. On this note, I read a lifehacker article that was like 'look your kid is going to make a bunch of art, keep 10% of it and make an instagram feed of the rest of it'.
 
-Brush your kid's hair. Christian got cradle cap which was, at worst, just slightly gross.
+Brush your kid's hair. Christian got cradle cap which was, at worst, just slightly gross. But still, it look like somebody had mashed corn chips into his head. And then when you brush them off it's like the most insane dandruff ever. But it is preventable.
+
+### Mental Tricks
+
+Parenthood makes basically all of your emotions much more intense. One of the hardest things to deal with is frustration. But the most important thing when dealing with either positive or negative emotions is to acknowledge them. If you go into it trying to ignore that you're frustrated, well you're going to burst a blood vessel. But if you go into it saying "Yeah, this is a frustrating process." And after 25 minutes of a screaming monster who spits his pacifier under the bed you have to be able to say to yourself "okay I'm frustrated". Then you can take steps to deal with it. Even the act of acknowledging helps. Acknowledging your emotions gives you power over them. 
+
+It's also important to keep in mind that as bad as you feel, in all likelihood, he feels worse. 
+
+## End Notes
+
+That's about it for now. There's tons of stuff out there, this is what worked for me/us. Again if you agree/disagree with me, or have anything you want to add, by all means let me know. 
+
+Congrats! Enjoy this time!
