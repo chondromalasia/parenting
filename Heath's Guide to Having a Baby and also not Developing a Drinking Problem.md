@@ -1,20 +1,29 @@
 # Heath's Guide to Having a Baby and also not Developing a Drinking Problem
 
-[TOC]
-
 ## Intro
 
-As I'm writing this, Christian is about 3 and a half months old. That's about as much as this will cover. One thing that's super important to consider is that there's a good chance that literally none of this will apply to you. This thing you are bringing into the world is designed by billions of years of evolution to manipulate your emotions and your attention. It's important to keep this in mind, because you can't take anything personally.
+As I'm writing this, Christian is about 4 and a half months old. That's about as much as this will cover. One thing that's super important to consider is that there's a good chance that literally none of this will apply to you. This thing you are bringing into the world is designed by billions of years of evolution to manipulate your emotions and your attention. Keep this in mind, because you can't take anything personally.
 
-"Everyone has a plan until they get punched in the face." - Mike Tyson
+*"Everyone has a plan until they get punched in the face."* - Mike Tyson
 
 ## Pre-birth
 
-I will not be the last one to say it, but these are basically the last free months of your 20's lifestyle. You should be winding down all the shit you have to do, your commitments and stuff. Sleep in. Go and see a movie. Enjoy silence. We took this time to rearrange the apartment.
+I will not be the last one to say it, but these are basically the last free months of your 20's lifestyle. You should be winding down all the shit you have to do, your commitments and stuff. Sleep in. Go and see a movie. Enjoy silence. We took this time to rearrange the apartment, one thing per day. But seriously, do not feel guilty about doing stupid zone-out stuff.
+
+If there is one thing babies do, it is rob you of time. If you are a busy busy busy person, you need to seriously gameplan for how you are going to deal with something that, for a very serious amount of time, needs around the clock attention. More importantly this should be a very relaxing time. You should be seeking to eliminate stress from the mother's life as much as possible. Cortisol, the stress hormone, is useful in small doses, but it can be extremely disruptive, especially to the embryo.
+
+But don't stress about being stressed either. My larger point is that you probably have a list of things you need to do to get your shit together. Now is a really really good time to get that sorted out. Your life to this point has been a rehearsal, now it is the performance.
+
+### Useful stuff
+
+I personally didn't do too much reading about the process of giving birth. I relied on the team of midwives and doctors. That having been said here are some useful resources:
+
+  * "How much coffee is okay?" "UUUUUUGH I had a glass of wine, how guilty should I feel?" "So, like, can I eat deli meat?" All fair questions and it is extremely hard to know what to believe. Veronica got a lot of comfort out of [Expecting Better](https://www.goodreads.com/book/show/16158576-expecting-better). The long and short of it is that an economist wanted the answers to these questions, so she went through the literature and summarized it.
+  * Hypnobirthing. Sounds like mumbo jumbo, but giving birth is an exercise in the mind-body connection. Veronica swears by this and, having listened to it, I do to. [The Calm Birth School](https://www.thecalmbirthschool.com/) and its associated materials are fantastic.
 
 ## Birth
 
-Yeah this was easily the most intense series of moments in my life. Yeah you should have a plan to get to the hospital, fast probably. Also, for the Dad, you should have a plan for getting back home. I would have been in no condition to drive. 
+Yeah this was easily the most intense series of moments in my life. Yeah you should have a plan to get to the hospital, fast probably. Also, for the Dad, you should have a plan for getting back home. I would have been in no condition to drive. So you may want to like plan on an Uber or something like that. Remember to pack a car seat, btw.
 
 ### Helping Hands
 
@@ -26,7 +35,7 @@ For the birth itself it was nice having a third person as well, if you can manag
 
 Really my job was to make sure Veronica had what she needed. In her case this was something warm in her lower back, with pressure. And then to kind of make sure she had a cool compress after contractions. 
 
-Charles, I don't know how strong your stomach is. I watched Christian come out of Veronica and I will never forget it until the day I die. On the other hand, my Mom's cousin passed out and split his head open. He had to be rushed TO ANOTHER HOSPITAL as his son lay screaming in his mother's arms. Have a good honest look at where you stand on that spectrum and plan accordingly. 
+I don't know how strong your stomach is. I watched Christian come out of Veronica and I will never forget it until the day I die (in a good way). On the other hand, my Mom's cousin passed out and split his head open. He had to be rushed TO ANOTHER HOSPITAL as his son lay screaming in his mother's arms. Have a good honest look at where you stand on that spectrum and plan accordingly. 
 
 Also your job is to flag nurses down if the mom-to-be needs anything.
 
@@ -36,25 +45,29 @@ A long labor can be boring, make sure you have like a podcast to listen to or so
 
 ## Post-Birth
 
+Congratulations! I hope everything went well! Now the real fun begins!
+
 I divide the time after birth into 3 pretty distinct parts:
 
 Squoze out -> Milk comes in -> 6ish weeks
 
 ### Squoze out -> Milk comes in
 
-You should try to spend this entire time in the hospital, until the milk comes in. Christian was doing 100% great drinking and stuff until the milk came in. 
+You should try to spend this entire time in the hospital. The stuff that comes out of your boobies at first is not milk, it is a sugar-watery substance called colostrum. After 3-4 days, then you start producing milk. Christian did fantastic with colostrum, they said that he had 'textbook latching'. However once the milk came in, he didn't/couldn't eat enough. It would have been nice to be in the hospital for this.
 
-Also, a lot of people are sentimental about keeping their newborn with them as much as possible during this time. The time immediately after birth (1-3 hours), yeah definitely hang out, get that skin on skin time. But you are going to be insanely exhausted, both of you. In order to take care of the baby, you have to take care of yourself. Don't feel bad about giving it up to the nursery, if there is such a thing. Get some sleep, your body has been through an insane trauma. I could barely form coherent sentences when VD was done. "I need sleep" is now a valid excuse.
+Also, a lot of people are sentimental about keeping their newborn with them as much as possible during this time. The time immediately after birth (1-3 hours), yeah definitely hang out, get that skin on skin time. But you are going to be insanely exhausted, both of you. In order to take care of the baby, you have to take care of yourself. Don't feel bad about giving it up to the nursery, if there is such a thing. Get some sleep, your body has been through an insane trauma. I could barely form coherent sentences when the process was complete. "I need sleep" is now a valid excuse.
 
 **Note** that, health of the mother-wise, you are not quite out of the woods yet. You will still be leaking blood and there are many things that can go wrong. I can't speak to the recovery time if you get a C-section, but you need to rehabilitate.
 
 #### Poops
 
-Your child's first couple poops will not actually be poop. They will be a substance called mecunium. Mecunium is fucking disgusting, it is like black tar. I never actually had to see it, thank goodness.
+Your child's first couple poops will not actually be poop. They will be a substance called mecunium. Mecunium is fucking disgusting, it is like black tar. I never actually had to see it, thank goodness. Just be prepared for that.
 
 #### Is this normal?
 
 Newborns are not like babies you're used to. They're really weird. Like boys can come out lactating. Girls can come out menstruating. The newborn, over the course of 24 hours or so, makes a transition from being one of the mom's organs to its own independent being, metabolically and physiologically. Hormones play a really big role in this. My point is to trust the professionals. Also your baby will be covered in slippery goop and a great deal of blood. 
+
+There's a pretty good chance that your kid's head will be malformed. This will settle out after a couple of days.
 
 Christian had a pretty rough birth, he was crammed in there tight. So he was pretty grumpy for the first couple days. I had two opportunities to have skin on skin contact with him and it was absolute heaven. What I'm saying is pack your softest shirts.
 
