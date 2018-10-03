@@ -97,7 +97,7 @@ If you have someone helping out who you trust to not murder your baby, they need
 
 We made sure to have 2-3 changing stations throughout the house. Christian would scream SO LOUD while getting changed, but even under non-screaming circumstances, you should probably have a place to change your baby that is not in the same room as someone sleeping.
 
-I should point out that for me, the feeling of sleep deprivation became a different sensation for me. Normally if I'm tired, I'm just sleepy all day. But during this time, I would get to ~9:30-10:00 and I would realize that I was barely able to stand. Like, I was turning a lid on a jar the wrong direction. 
+I should point out that for me, the feeling of sleep deprivation became a different sensation. Normally if I'm tired, I'm just sleepy all day. But during this time, I would get to ~9:30-10:00 and I would realize that I was barely able to stand. Like, I was turning a lid on a jar the wrong direction. 
 
 #### Napping
 
@@ -109,7 +109,7 @@ Try to keep a schedule. It will be impossible, but still, [food is one of the th
 
 Again, this is something a grandparent or helper should be doing.
 
-You are going to be tempted to just eat garbage, and I feel you. But if someone is cooking for you, try to get them to make you a salad or something like that.  
+You are going to be tempted to just eat garbage, and I feel you. But if someone is cooking for you, try to get them to make you a salad or something like that. Protein to sustain your broken body.
 
 ### Food for him or her
 
@@ -123,7 +123,7 @@ For some reason, for a long time people were like 'don't give newborns a pacifie
 
 #### Babies are lazy
 
-What can happen, and this is what life was like with Christian, is that you have to supplement with a bottle, either formula or pumped milk. It is way easier to drink out of a bottle than a titty. So what happens is that he'll realize that as soon as he has difficulty with the nipple, someone swoops in and gives him the bottle, which basically just dumps milk into his gullet. And then they can just shorten the time on the nerp, in favor of the bottle.
+What can happen, and this is what life was like with Christian, is that you have to supplement with a bottle, either formula or pumped milk. It is way easier to drink out of a bottle than a titty. So what happens is that he'll realize that as soon as he has difficulty with the nipple, someone swoops in and gives him the bottle, which basically just dumps milk into his gullet. And then they can just shorten the time on the nerp, in favor of the bottle. So what you have to do is walk the line between allowing him to get the nourishment he needs and him not being a lazy bastard. 
 
 Here are two things I found useful in that regard:
 
@@ -157,9 +157,11 @@ Talk to your doctor about Mycolin. That shit is awesome.
 
 Also make sure that you're feeding him upright.
 
-Your baby could also just have a derpy esophogus, so it just kind of can't hold shit down. It will grow out of this. But he or she may have some sort of like acid reflux. Sorry. It also comes in phases, but if you are concerned, ask the midwife.
+Your baby could also just have a derpy esophogus, so it just kind of can't hold shit down. It will grow out of this. But he or she may have some sort of like acid reflux. Sorry. It also comes in phases, but if you are concerned, ask the midwife. For Christian it seemed like for every growth spurt he just barfed a lot, because his body outgrew his epiglottis.
 
 Don't hold your baby over your computer or really any electronics, btw.
+
+Make it part of your daily routine to deposit rags where they're needed most.
 
 #### Nipples, yours
 
@@ -177,7 +179,7 @@ There's not much you can do here to 'sleep train', except that I would really av
 
 So. Feed. Burp. Sleep. That is one thing I like about the hula-methed for burping, it's hard for them to sleep through it. Sometimes they do and its hilarious.
 
-Note that if he's having trouble sleeping at this point, we found the ergo-baby to basically be cheat-mode. 
+Note that if he's having trouble sleeping at this point, we found the ergo-baby to basically be cheat-mode. Do whatever it takes to get that baby sleeping.
 
 #### Swaddling
 
@@ -211,19 +213,31 @@ Note that sometimes he's both hungry and sleepy at the same time. And he's too a
 
 Perfect storm is gas + sleepy + hungry. 
 
+Again, don't be afraid to use a pacifier, especially in the first couple weeks ESPECIALLY if his crying seems to be interrupting sleep. Even in the first couple days, when babies are still reeling from being discharged into this terrible earth, the pacifier is a very real source of physical comfort.
+
 ### Changing diapers
 
 Another thing we learned in the hospital was the kinaesthetic method for changing diapers. And it's really influenced how I handle babies in general. The idea is that you should really be trying to mimic the movements of the baby in utero. So they like to twist around and stuff. Here's a video:
 
 https://www.youtube.com/watch?v=6XT4mDDEFeE
 
-Notice how instead of grabbing him by his feet and lifting his butt off of the ground, she instead uses his hips to move him to the side? That's kind of the fundamental of it.
+Notice how instead of grabbing him by his feet and lifting his butt off of the ground, she instead uses his hips to move him to the side? That's kind of the fundamental movement.
 
 Secondly, you should always be in contact with the baby, either with a physical touch or with your voice.
 
-Thirdly, I guess this is firstly, but when you put the baby down, you should let his butt make contact first and then lower the rest of his body. I have found this to be a very useful concept for baby-handling.
+Thirdly, I guess this is firstly, but when you put the baby down, you should let his butt make contact first and then lower the rest of his body. I have found this to be a very useful concept for baby-handling. This is how I put Christian down for sleep until abouth month 4 or so. Butt down -> your hand on chest -> lower head to pillow -> remove head hand -> SLOWLY remove chest hand. 
 
 ### Final thoughts on this period in time
+
+#### Your body is about to break down
+
+You know how shitty you feel when you don't get a good night of sleep? Enjoy that with compound interest. I was wholly unprepared for the physical toll that having a newborn would take. It is a very serious change to your ergonomic situation. I went from being in okayish shape to what I can firmly say is the absolute worst shape of my life, which is a horrible feeling.
+
+This is why you really shouldn't let your diet go, by the way. 
+
+#### De Quervain's Tendonosis
+
+This is a swelling of the tendon the runs alongside your thumb and you are probably going to get it. My gut tells me that if you have an absolute unit of a baby like we did, that you're more likely to get it. You will know you have it when it hurts to  your baby around. I won't go into treatment options, but to prevent this, it helps to keep your thumb like in against your hand, rather than make an 'L'. And try to use the crook of your arm as much as possible.
 
 #### Learn the hip hinge!!!!!
 
@@ -237,7 +251,7 @@ http://www.nick-e.com/hinge/
 
 #### DON"T WORRY IT WILL END
 
-This is really a tough time to be a parent. You are absolutely demolished, your child is adorable but doesn't really react to you all that much, you have a pile of thank-yous to write. You'lle probably say to yourself "I can't live like this." The good news is you won't have to. Just don't forget to breath and stay hydrated.
+This is really a tough time to be a parent. You are absolutely demolished, your child is adorable but doesn't really react to you all that much, you have a pile of thank-yous to write. You'll probably say to yourself "I can't live like this." The good news is you won't have to. Just don't forget to breath and stay hydrated.
 
 ## 6 weeks -> 6 months
 
@@ -245,13 +259,13 @@ Okay things are smoothing out now. Your baby is making eye contact with you and 
 
 ### Sleep
 
-The good news is that your baby understands that there's a day and night. The bad news is that he just doesn't fall asleep on his own anymore. The issue of sleep training is a super contentious one, there are a bunch of methods. I happened to run across [The Happy Sleeper](https://www.amazon.com/Happy-Sleeper-Science-Backed-Helping-Sleep-Newborn/dp/0399166025) on the street and it has been VERY helpful. I read it in an afternoon. But the long and short of it is that you incrementally help the baby get to sleep on their own by doing less and less for them. You may disagree with the methods, but I think the fundamentals and the reasoning are very correct. The website [Precious Little Sleep](https://www.preciouslittlesleep.com/) is also quite good, but she is very adamant that your baby have a sleep swing.
+The good news is that your baby understands that there's a day and night. The bad news is that he just doesn't fall asleep on his own anymore. The issue of sleep training is a super contentious one, there are a bunch of methods. I happened to run across [The Happy Sleeper](https://www.amazon.com/Happy-Sleeper-Science-Backed-Helping-Sleep-Newborn/dp/0399166025) on the street and it has been VERY helpful. I read it in an afternoon. But the long and short of it is that you incrementally help the baby get to sleep on their own by doing less and less for them. You may disagree with the methods, but I think the fundamentals and the reasoning are sound. The website [Precious Little Sleep](https://www.preciouslittlesleep.com/) is also quite good, but she is very adamant that your baby have a sleep swing.
 
 At the very least, this is something to discuss and research, your plan for getting your baby to sleep. I would really have a plan in place. You must be consistent. My personal rule, in easing him to falling asleep on his own, was change one thing at a time. So we were at this cabin and Christian HATED the room he was sleeping in because it was stuffy. Which sucked. But he loved being outside, that would calm him down. But to put him to sleep we had to change two things: being outside and being in arms. And it kind of sucked. BUT it got better.
 
-In addition, from about 6-weeks on, at the bare minimum you should be, developing a very consistent bedtime routine. Like child directed play -> book -> pajamas -> swaddle -> feed -> bed. And then you should be like singing the same song or saying the same things every time.
+In addition, from about 6-weeks on, at the bare minimum you should be, developing a very consistent bedtime routine. Like child directed play -> book -> pajamas -> swaddle -> feed -> bed. And then you should be like singing the same song or saying the same things every time. Also make sure that bedroom is as dark as possible. And, especially when they're younger, they tend to get distracted by patterns and stuff, so the plainer, the better.
 
-Note that the happy sleeper method is really only going to work if your guy or gal is a good go-er to sleeper already. I've read accounts of some people whose kids cry for like 2 hours before bed! In that case they basically had to go with the cry it out solution.
+Note that the happy sleeper method is really only going to work if your guy or gal is a good go-er to sleeper already. I've read accounts of some people whose kids cry for like 2 hours before bed! But seriously, if you're having trouble there are very real solutions. Some of them are very quick (move bedtime up for example) some of them take a little bit longer.
 
 For me personally, at this stage in the game, this is the single most frustrating part of parenting, and I feel like a lot of parents would agree with me. 
 
@@ -259,19 +273,17 @@ Another thought is that it should really be a combination of people who put him 
 
 #### Naps
 
-The baby will basically be sleeping every hour and a half or so. One thing I read, and this is my mantra with it, is that 'sleep begets sleep'. Overtiredness is very, very real. We had two major upgrades to Christian's schedule.
+The baby will basically be sleeping every hour and a half or so until ~4 months. One thing I read, and this is my mantra with regards to sleep, is that 'sleep begets sleep'. Overtiredness is very, very real. We had two major upgrades to Christian's schedule.
 
 The first was that we moved his bedtime earlier in the night (7:30 is kind of a soft ceiling). At the time we just said no later than two hours after his last nap.
 
 The second was to just put him down about an hour and a half after his last nap (this goes for bedtime as well). So when he gets up, we look at the clock. An hour and a half later is when we shoot to be putting him down. Note that this means kind of starting the pre-nap procedure like 10 minutes before. Note, this changes at around 4 months, when he goes from 4->3 naps a day.
 
-Things REALLY smoothed out after this. And it's getting better.
-
 I mention why below, but we have had some real success with just letting him play by himself for ~15 minutes before going to sleep. In fact, there's an entire strategy called Eat -> Play -> Sleep. 
 
 #### A quick treatise on overtiredness
 
-You know how cranky you get when you're tired? Well imagine you don't know how to sleep. And you're just constantly tired. That's the first step, you're just not having as much fun in life. This is stressful.
+You know how cranky you get when you're tired? Well imagine you don't know how to sleep. And you're just constantly tired. That's the first problem, you're just not having as much fun in life. This is stressful.
 
 Falling asleep is a battle between melatonin, the sleep hormone, and cortisol, the stress hormone. Adults mainly get rid of cortisol by engaging in BDSM sexual activities and also shooting guns, activities otherwise inaccessible to babies (thanks Obama). Cortisol levels are brought down by calming activities (child-directed play, just letting them do whatever is a very calming activity, reading or really anything soothing) and by sleep itself. So right there, not enough sleep = high cortisol.
 
@@ -281,7 +293,7 @@ So you can kind of see the intuition behind 'sleep begets sleep'. On one hand it
 
 #### Weaning from the swaddle
 
-You can't swaddle your baby forever. Once he can roll over, then the swaddle is gone. Often you can see the writing on the walls and you can plan for it. So our night routine is to swaddle him and then put him in some sort of sleep sack. The first step is to just leave one arm unswaddled, but free inside the sack. Then we would switch arms and then have both out of the swaddle (we swaddled his midsection/legs for warmth) but still free inside the sack. Then one arm completely out. What REALLY helped was using what mombloggers call a lovey. But basically a cloth with an animal on it or something. Here's an example: [Snuggin](http://www.snuggin.com/). This REALLY helps a lot. It is not only a source of comfort, it's a barrier between their goblin-hands and their face and it is something for their hands to do.
+You can't swaddle your baby forever. Once he can roll over, then the swaddle is gone. Often you can see the writing on the walls and you can plan for it. So our night routine is to swaddle him and then put him in some sort of sleep sack. The first step is to just leave one arm unswaddled, but free inside the sack. Then we would switch arms and then have both out of the swaddle (we swaddled his midsection/legs for warmth) but still free inside the sack. Then one arm completely out. What REALLY helped was using what mombloggers call a lovey. But basically a cloth with an animal on it or something. Here's an example: [Snuggin](http://www.snuggin.com/). This REALLY helps a lot. It is not only a source of comfort, it's a barrier between their goblin-hands and their face and it is something for their hands to do. You can also use something like a [Swaddle Up Sleep Sack](https://lovetodream.com/swaddle-up-original/) as a middle-ground between the woombie and nothing. Christian was NOT A FAN of this at first, but we waited a month or so and then he was into it.
 
 So I would introduce a change during the first nap of the day, give it a day or two to take effect, and then introduce it to the nighttime sleep.
 
@@ -320,6 +332,8 @@ Get some slip on shoes that you can wear for 3-4 hours. It's just one less thing
 Parenthood makes basically all of your emotions much more intense. One of the hardest things to deal with is frustration. But the most important thing when dealing with either positive or negative emotions is to acknowledge them. If you go into it trying to ignore that you're frustrated, well you're going to burst a blood vessel. But if you go into it saying "Yeah, this is a frustrating process." And after 25 minutes of a screaming monster who spits his pacifier under the bed you have to be able to say to yourself "okay I'm frustrated". Then you can take steps to deal with it. Even the act of acknowledging helps. Acknowledging your emotions gives you power over them. 
 
 It's also important to keep in mind that as bad as you feel, in all likelihood, he feels worse. 
+
+You cannot cannot cannot second guess yourself. You just cannot. Here's an example from my experience. It was the first night at home, it was something like 3 AM, I was the only one awake and Christian would not stop crying. So I gave him a pacifier. The next day? He had trouble latching. Now, 2 days later we were assured over and over and over again that there was no such thing as nipple confusion. However in the intervening time it is very easy to feel like you were part of the causal series of events that lead to your child being hospitalized with an IV. I don't even think Hitler did that. But you have to trust yourself. Even if it had turned out that I had caused that, I would have still had to forgive myself and move on. You made a choice, and you made a choice with almost certainly limited information and you hadn't slept for 3 days and your kid was screaming. I'll repeat it one more time: **Trust yourself**.
 
 ## End Notes
 
