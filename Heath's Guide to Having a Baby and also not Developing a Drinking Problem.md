@@ -37,7 +37,7 @@ For the birth itself it was nice having a third person as well, if you can manag
 
 Really my job was to make sure Veronica had what she needed. In her case this was something warm in her lower back, with pressure. And then to kind of make sure she had a cool compress after contractions. 
 
-I don't know how strong your stomach is. I watched Christian come out of Veronica and I will never forget it until the day I die (in a good way). On the other hand, my Mom's cousin passed out and split his head open. He had to be rushed TO ANOTHER HOSPITAL as his son lay screaming in his mother's arms. Have a good honest look at where you stand on that spectrum and plan accordingly. 
+I don't know how strong your stomach is. I watched Christian literally come out of Veronica and squirt across the table. I will never forget it until the day I die (in a good way). On the other hand, my Mom's cousin passed out and split his head open. He had to be rushed TO ANOTHER HOSPITAL as his son lay screaming in his mother's arms. Have a good honest look at where you stand on that spectrum and plan accordingly. 
 
 Also your job is to flag nurses down if the mom-to-be needs anything.
 
