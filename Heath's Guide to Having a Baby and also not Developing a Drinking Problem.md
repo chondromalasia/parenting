@@ -311,21 +311,48 @@ It's kind of counterintuitive, but you can definitely travel now. In fact, this 
 
 ### Misc
 
-If you are doing bottles of any kind, we got a bottle warmer.
+* If you are doing bottles of any kind, we got a bottle warmer.
 
-You can't have too many burp cloths.
+* You can't have too many burp cloths.
 
-If you find a sleep-sack thing that works with you and your baby, get another one because it will get barfed on and you will need to wash it. 
+* If you find a sleep-sack thing that works with you and your baby, get another one because it will get barfed on and you will need to wash it. 
 
-We got a shitload of like waterproof padding things and basically put them underneath all the bedding/changing things. 
+* We got a shitload of like waterproof padding things and basically put them underneath all the bedding/changing things. 
 
-If you're going to do birth announcements, in any form, you might want to get as much done ahead of time. We got an announcement from one of Veronica's friends like 3 days after she gave birth, an astounding feat.
+* If you're going to do birth announcements, in any form, you might want to get as much done ahead of time. We got an announcement from one of Veronica's friends like 3 days after she gave birth, an astounding feat.
 
-We manage baby pictures by keeping a central Google pictures repository, the link to which we hand out to people who might be interested. On this note, I read a lifehacker article that was like 'look your kid is going to make a bunch of art, keep 10% of it and make an instagram feed of the rest of it'.
+* We manage baby pictures by keeping a central Google pictures repository, the link to which we hand out to people who might be interested. On this note, I read a lifehacker article that was like 'look your kid is going to make a bunch of art, keep 10% of it and make an instagram feed of the rest of it'.
 
-Brush your kid's hair. Christian got cradle cap which was, at worst, just slightly gross. But still, it look like somebody had mashed corn chips into his head. And then when you brush them off it's like the most insane dandruff ever. But it is preventable.
+* Brush your kid's hair. Christian got cradle cap which was, at worst, just slightly gross. But still, it look like somebody had mashed corn chips into his head. And then when you brush them off it's like the most insane dandruff ever. But it is preventable.
 
-Get some slip on shoes that you can wear for 3-4 hours. It's just one less thing you have to worry about, but also sometimes you put on the ergo baby and you haven't put your shoes on yet.
+* Get some slip on shoes that you can wear for 3-4 hours. It's just one less thing you have to worry about, but also sometimes you put on the ergo baby and you haven't put your shoes on yet.
+
+* **DO NOT** give your kid honey. It can hold the botulism bacteria in it and can kill them quite quickly.
+
+#### Poop management
+
+You're going to have blowouts. And the best strategy is to prepare for them. If your baby needs a sleep sack, make sure you have two.
+
+Blowouts will often happen at night. So you should use what mommy bloggers are calling the "lasagna method".
+Basically you should have a waterproof layer overtop of the mattress. Over top of that, you can then have your child's bedding.
+Then over that another waterproof layer. And then another layer of bedding.
+So when your baby blasts through the diaper, you can just peel away the top layer and put him back.
+Note that, especially if they're sick, it's possible to go through all the layers.
+
+
+If blowouts are a big problem, then maybe you want to move up a diaper size. We would have the smaller size on during the day and then
+the larger size on for night. And this was pretty good.
+
+Also note that many baby onesies are intended to go both over the baby's head but also to be pulled down over their shoulders (in the case of blowouts). My sister had to cut her child out of a onesie, like Archduke Ferdinand, one time it was so bad.
+
+##### Cleaning 
+
+When cleaning stains in general, but especially poop stains, you want to use cold water.
+Warm-Hot water will set the stain into the fabric. 
+
+In addition, Oxyclean is your friend. So in the case of a poop stain, we had a special bucket/holder thing that was exclusively for
+soiled garments. 
+The onesies/whatever would go immediately into the bucket, which would soak in Oxyclean for a while and then would get washed with other baby stuff on cold.
 
 ### Mental Tricks
 
