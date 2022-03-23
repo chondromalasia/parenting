@@ -187,8 +187,7 @@ Not all babies take to swaddling. And we thought Christian was this way. He woul
 
 Now it is part of our sleep (nap and bed) routine.
 
-It also takes some practice. Babies have hellspawn goblin strength and will bust through any weakness in the swaddle. I would recommend the [dudu method](https://wicworks.fns.usda.gov/wicworks/Sharing_Center/Chickasaw/dudu.pdf) for younger babies and then just a regular swaddle as they grow up.
-
+It also takes some practice. Babies have hellspawn goblin strength and will bust through any weakness in the swaddle. I would recommend [this method](https://www.youtube.com/watch?v=Dg_XbCE1m8U). And then you can put another layer, like a sleep-sack on top (depending on the weather).
 After a swaddle, we put him in a [woombie](http://www.woombie.com/) or a woombie-like device and this does the trick.
 
 #### Shushing
